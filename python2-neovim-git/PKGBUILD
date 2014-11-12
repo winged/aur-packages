@@ -1,4 +1,5 @@
 # Maintainer: David Vogt <dave at winged dot ch>
+# This PKGBUILD is maintained at https://github.com/winged/aur-packages
 
 pkgname=python2-neovim-git
 _pkgname=python2-neovim-git
