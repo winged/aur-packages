@@ -1,6 +1,4 @@
-# Maintainer: Patrice Peterson <runiq at archlinux dot us>
-# Contributor: wenLiangcan <boxeed at gmail dot com>
-# Contributor: astiam <astiamm at gmail dot com>
+# Maintainer: David Vogt <dave at winged dot ch>
 
 pkgname=python2-neovim-git
 _pkgname=python2-neovim-git
