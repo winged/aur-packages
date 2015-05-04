@@ -3,12 +3,12 @@
 
 pkgname=notevim-git
 pkgver=0.r13.18f2688
-pkgrel=1
+pkgrel=2
 pkgdesc="A script to help you manage your notes and access them quickly"
 arch=('x86_64' 'i686')
-license=('MIT')
+license=('BSD')
 url=('https://github.com/winged/notevim')
-#depends=()
+depends=('wmctrl')
 provides=('notevim' 'notevim-git')
 conflicts=()
 #makedepends=('python2-setuptools')
