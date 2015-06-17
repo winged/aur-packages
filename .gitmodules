@@ -1,0 +1,12 @@
+[submodule "apstools"]
+	path = apstools
+	url = ssh://aur@aur4.archlinux.org/apstools.git
+[submodule "libtermkey-git"]
+	path = libtermkey-git
+	url = ssh://aur@aur4.archlinux.org/libtermkey-git.git
+[submodule "notevim-git"]
+	path = notevim-git
+	url = ssh://aur@aur4.archlinux.org/notevim-git.git
+[submodule "python2-neovim-git"]
+	path = python2-neovim-git
+	url = ssh://aur@aur4.archlinux.org/python2-neovim-git.git
