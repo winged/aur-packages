@@ -10,3 +10,6 @@
 [submodule "python2-neovim-git"]
 	path = python2-neovim-git
 	url = ssh://aur@aur4.archlinux.org/python2-neovim-git.git
+[submodule "typescript-tools"]
+	path = typescript-tools
+	url = ssh://aur@aur4.archlinux.org/typescript-tools.git
