@@ -13,3 +13,6 @@
 [submodule "typescript-tools"]
 	path = typescript-tools
 	url = ssh://aur@aur4.archlinux.org/typescript-tools.git
+[submodule "fahrplan"]
+	path = fahrplan
+	url = ssh://aur@aur4.archlinux.org/fahrplan.git
