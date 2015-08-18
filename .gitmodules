@@ -16,3 +16,6 @@
 [submodule "fahrplan"]
 	path = fahrplan
 	url = ssh://aur@aur4.archlinux.org/fahrplan.git
+[submodule "worklog-git"]
+	path = worklog-git
+	url = ssh://aur@aur4.archlinux.org/worklog-git.git
