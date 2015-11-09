@@ -19,3 +19,6 @@
 [submodule "worklog-git"]
 	path = worklog-git
 	url = ssh://aur@aur4.archlinux.org/worklog-git.git
+[submodule "anytoggle"]
+	path = anytoggle
+	url = ssh://aur@aur4.archlinux.org/anytoggle.git
