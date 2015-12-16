@@ -22,3 +22,6 @@
 [submodule "anytoggle"]
 	path = anytoggle
 	url = ssh://aur@aur4.archlinux.org/anytoggle.git
+[submodule "phpctags"]
+	path = phpctags
+	url = ssh://aur@aur4.archlinux.org/phpctags.git
