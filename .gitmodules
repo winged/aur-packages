@@ -25,3 +25,6 @@
 [submodule "phpctags"]
 	path = phpctags
 	url = ssh://aur@aur4.archlinux.org/phpctags.git
+[submodule "finja-git"]
+	path = finja-git
+	url = ssh://aur@aur4.archlinux.org/finja-git.git
