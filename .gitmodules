@@ -28,3 +28,6 @@
 [submodule "finja-git"]
 	path = finja-git
 	url = ssh://aur@aur4.archlinux.org/finja-git.git
+[submodule "finja"]
+	path = finja
+	url = ssh://aur@aur4.archlinux.org/finja.git
