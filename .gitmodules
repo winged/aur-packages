@@ -31,3 +31,6 @@
 [submodule "finja"]
 	path = finja
 	url = ssh://aur@aur4.archlinux.org/finja.git
+[submodule "pugdebug-git"]
+	path = pugdebug-git
+	url = ssh://aur@aur4.archlinux.org/pugdebug-git.git
