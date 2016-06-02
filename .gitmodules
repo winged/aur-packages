@@ -34,3 +34,6 @@
 [submodule "pugdebug-git"]
 	path = pugdebug-git
 	url = ssh://aur@aur4.archlinux.org/pugdebug-git.git
+[submodule "matterbridge-plus-bin"]
+	path = matterbridge-plus-bin
+	url = ssh://aur@aur4.archlinux.org/matterbridge-plus-bin.git
