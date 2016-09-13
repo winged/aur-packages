@@ -37,3 +37,6 @@
 [submodule "matterbridge-plus-bin"]
 	path = matterbridge-plus-bin
 	url = ssh://aur@aur4.archlinux.org/matterbridge-plus-bin.git
+[submodule "yubikey-u2f-udevrules"]
+	path = yubikey-u2f-udevrules
+	url = ssh://aur@aur4.archlinux.org/yubikey-u2f-udevrules.git
